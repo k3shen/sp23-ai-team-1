@@ -63,7 +63,7 @@ Another hurdle we faced was figuring out how to train our model. We had trouble 
 ## 6. Author Info
 
 - Vincent Tu (Advisor): [LinkedIn](https://www.linkedin.com/in/vincent-tu-422b18208/) | [GitHub](https://github.com/alckasoc)
-- Kevin Shen: [LinkedIn](https://www.linkedin.com/in/vincent-tu-422b18208/) | [GitHub](https://github.com/alckasoc)
+- Kevin Shen: [LinkedIn](https://www.linkedin.com/in/kevinshen66) | [GitHub](https://github.com/k3shen)
 - Yashil Vora: [LinkedIn](https://www.linkedin.com/in/vincent-tu-422b18208/) | [GitHub](https://github.com/alckasoc)
 - Samuel Lee: [LinkedIn](https://www.linkedin.com/in/lee-samuel-b22653258/) | [GitHub](https://github.com/samuellee77)
 - Vanessa Hu: [LinkedIn](https://www.linkedin.com/in/vanessavhu/) | [GitHub](https://github.com/vh894)
